@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(54, 116, 95);
+    margin: 0;
+    color: aliceblue !important;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container a{
+    width: 100px;
+    
+}
+.container .RDC{
+    background-color: transparent;
+    border: 1px solid aliceblue;
+    color: aliceblue !important;
+    /*
+    background-image: url("./flag/Flag_of_the_Republic_of_the_Congo.svg.png");
+    background-size: cover; */
+}
+.container .BRAZZA{
+    background-color: transparent;
+    border: 1px solid aliceblue;
+    color: aliceblue !important;
+}
+.container .IVOIR{
+    background-color: transparent;
+    border: 1px solid aliceblue;
+    color: aliceblue !important;
+}
